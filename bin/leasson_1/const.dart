@@ -1,7 +1,8 @@
+/// const
 void main() {
   // Пример константного числа
   const pi = 3.14;
-  print('pi: $pi; type: ${pi.runtimeType}');
+  print('pi: $pi; type: ${pi.runtimeType}'); // Вывод: pi: 3.14; type: double
 
   // Пример константного списка:
   const List<int> numbers = [1, 2, 3];
